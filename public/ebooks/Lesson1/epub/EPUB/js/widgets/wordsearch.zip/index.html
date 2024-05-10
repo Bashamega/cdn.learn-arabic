@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="./kotobeeInteractive.js"></script>
+    <link rel="stylesheet" href="https://cdn-learn-arabic.vercel.app/css/kotobee/widgets/custom.css">
+    <title>wordsearch</title>
+    <style>
+      html,body {
+        margin:0 !important;
+        padding:0 !important;
+        font-family: Helvetica, Arial, sans-serif !important;
+      }
+      .wordsearch-miniapp {
+        margin: 0 auto !important;
+        left: 0 !important;
+        right: 0 !important;
+      }
+      .wordsearch-miniapp .miniapp__container__header, .wordsearch-miniapp .miniapp__heading {
+          pointer-events: none !important;
+      }
+      .wordsearch-miniapp .miniapp--closeBtn,
+      .wordsearch-miniapp .container .wrapper .header .close, 
+      .wordsearch-miniapp .container .wrapper .header .hideBtn, 
+      .wordsearch-miniapp .container .wrapper .header .minimize, 
+      .wordsearch-miniapp .container .wrapper .header .toggle {
+          display: none !important;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      window.onload = function () {
+        miniappOutput.open();
+      };
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1 @@
+window.miniappData={"bg":"","bgColor":"","title":"الجملة الاسمية","desc":"","list":[{"word":"مبتدأ"},{"word":"خبر"}],"lang":"arabic"}
