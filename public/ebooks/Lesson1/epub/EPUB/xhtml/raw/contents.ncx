@@ -13,7 +13,7 @@
  </docTitle>
     
 <navMap>
-    <navPoint id="ncx0" playOrder="1"><navLabel><text>ما هية الجمل الاسمية؟</text></navLabel><content src="ch1.xhtml"></content></navPoint><navPoint id="ncx1" playOrder="2"><navLabel><text>أركان الجملة الاسمية</text></navLabel><content src="sd3oud.xhtml"></content></navPoint><navPoint id="ncx2" playOrder="3"><navLabel><text>أمثلة</text></navLabel><content src="s3w528.xhtml"></content></navPoint><navPoint id="ncx3" playOrder="4"><navLabel><text>تدريب</text></navLabel><content src="scjscr.xhtml"></content></navPoint><navPoint id="ncx4" playOrder="5"><navLabel><text>فيديو</text></navLabel><content src="sbvx2i.xhtml"></content></navPoint><navPoint id="ncx5" playOrder="6"><navLabel><text>لعبة</text></navLabel><content src="souyqa.xhtml"></content></navPoint>
+    <navPoint id="ncx0" playOrder="1"><navLabel><text>ما هي الجمل الاسمية؟</text></navLabel><content src="ch1.xhtml"></content></navPoint><navPoint id="ncx1" playOrder="2"><navLabel><text>أركان الجملة الاسمية</text></navLabel><content src="sd3oud.xhtml"></content></navPoint><navPoint id="ncx2" playOrder="3"><navLabel><text>أمثلة</text></navLabel><content src="s3w528.xhtml"></content></navPoint><navPoint id="ncx3" playOrder="4"><navLabel><text>تدريب</text></navLabel><content src="scjscr.xhtml"></content></navPoint><navPoint id="ncx4" playOrder="5"><navLabel><text>فيديو</text></navLabel><content src="sbvx2i.xhtml"></content></navPoint><navPoint id="ncx5" playOrder="6"><navLabel><text>لعبة</text></navLabel><content src="souyqa.xhtml"></content></navPoint>
 </navMap>
     
 </ncx>

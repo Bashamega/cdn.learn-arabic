@@ -7,12 +7,12 @@
         <dc:identifier id="pub-id">urn:uuid:e118346c-98ce-613f-2fe7-c2bcfccafc1b</dc:identifier>
         <meta name="cover" content="img0" />
 
-        <dc:creator>Kotobee</dc:creator>
-        <dc:publisher>N/A</dc:publisher>
-        <dc:rights>Kotobee</dc:rights>
+        <dc:creator>آدم باشا</dc:creator>
+        <dc:publisher>آدم باشا</dc:publisher>
+        <dc:rights>آدم باشا</dc:rights>
         <dc:language>en</dc:language>
         <dc:description>No description available</dc:description>
-        <meta property="dcterms:modified">2024-05-10T09:16:14Z</meta>
+        <meta property="dcterms:modified">2024-05-10T09:33:01Z</meta>
         <meta property="rendition:layout">reflowable</meta>
         <meta property="rendition:orientation">auto</meta>
         <meta property="ibooks:interactive">true</meta>
@@ -31,43 +31,29 @@
 
     </metadata>
     <manifest>
-        <item id="html0" href="xhtml/raw/ch1.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
-<item id="html1" href="xhtml/raw/sd3oud.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
-<item id="html2" href="xhtml/raw/s3w528.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
-<item id="html3" href="xhtml/raw/scjscr.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
-<item id="html4" href="xhtml/raw/sbvx2i.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
-<item id="html5" href="xhtml/raw/souyqa.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+        <item id="html0" href="xhtml/raw/ch1.xhtml" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/raw/sd3oud.xhtml" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/raw/s3w528.xhtml" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/raw/scjscr.xhtml" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/raw/sbvx2i.xhtml" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/raw/souyqa.xhtml" media-type="application/xhtml+xml"/>
 <item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
 <item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
 <item id="img0" href="imgs/defaultCover.png" properties="cover-image" media-type="image/png"/>
 <item id="img1" href="js/widgets/wordsearch.zip/_kmeta/miniapps/m675051/icon.png" media-type="image/png"/>
-<item id="img2" href="../_kmeta/ktemplate/icon.png" media-type="image/png"/>
-<item id="aud0" href="https://cdn-learn-arabic.vercel.app/audio/Lesson1-1.mp3" media-type="audio/mpeg"/>
-<item id="aud1" href="https://cdn-learn-arabic.vercel.app/audio/Lesson1-2.m4a" media-type="audio/mp4"/>
-<item id="vid0" href="https://youtu.be/n-E8X14-isg?si=mnZVH5Y82S2JuTIv" media-type="audio/mpeg"/>
 <item id="css0" href="css/base.css" media-type="text/css"/>
 <item id="css1" href="css/global.css" media-type="text/css"/>
 <item id="css2" href="css/kotobeeInteractive.css" media-type="text/css"/>
 <item id="js0" href="js/global.js" media-type="text/javascript"/>
 <item id="js1" href="js/kotobeeInteractive.js" media-type="text/javascript"/>
-<item id="js2" href="js/kotobeeInteractive3D.js" media-type="text/javascript"/>
-<item id="js3" href="js/widgets/wordsearch.zip/kotobeeInteractive.js" media-type="text/javascript"/>
-<item id="js4" href="js/widgets/wordsearch.zip/_kmeta/miniapps/m675051/config.js" media-type="text/javascript"/>
-<item id="js5" href="js/widgets/wordsearch.zip/_kmeta/miniapps/m675051/userdata/data.js" media-type="text/javascript"/>
-<item id="js6" href="js/widgets/wordsearch.zip/_kmeta/miniapps.js" media-type="text/javascript"/>
-<item id="js7" href="../_kmeta/config.js" media-type="text/javascript"/>
+<item id="js12" href="js/widgets/wordsearch.zip/kotobeeInteractive.js" media-type="text/javascript"/>
+<item id="js13" href="js/widgets/wordsearch.zip/_kmeta/miniapps/m675051/config.js" media-type="text/javascript"/>
+<item id="js14" href="js/widgets/wordsearch.zip/_kmeta/miniapps/m675051/userdata/data.js" media-type="text/javascript"/>
+<item id="js15" href="js/widgets/wordsearch.zip/_kmeta/miniapps.js" media-type="text/javascript"/>
 <item id="txt0" href="js/widgets/wordsearch.zip/_kmeta/miniapps/m675051/userdata/data.json" media-type="application/json"/>
-<item id="txt1" href="../_kmeta/content.json" media-type="application/json"/>
-<item id="txt2" href="../_kmeta/ktemplate/config.json" media-type="application/json"/>
-<item id="txt3" href="js/widgets/wordsearch.zip/index.html" media-type="text/html"/>
+<item id="txt1" href="js/widgets/wordsearch.zip/index.html" media-type="text/html"/>
 
-    <item id="miniapp0" href="../_kmeta/miniapps/m452573/config.js" media-type="text/javascript"/>
-<item id="miniapp1" href="../_kmeta/miniapps/m452573/icon.png" media-type="image/png"/>
-<item id="miniapp2" href="../_kmeta/miniapps/m452573/userdata/data.js" media-type="text/javascript"/>
-<item id="miniapp3" href="../_kmeta/miniapps/m452573/userdata/data.json" media-type="application/json"/>
-<item id="miniapp4" href="../_kmeta/miniapps.js" media-type="text/javascript"/>
-
-</manifest>
+    </manifest>
     <spine toc="ncx">
         <itemref idref="html0" properties="rendition:layout-reflowable"/>
 <itemref idref="html1" properties="rendition:layout-reflowable"/>

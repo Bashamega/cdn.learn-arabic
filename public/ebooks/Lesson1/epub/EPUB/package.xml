@@ -7,12 +7,12 @@
         <dc:identifier id="pub-id">urn:uuid:e118346c-98ce-613f-2fe7-c2bcfccafc1b</dc:identifier>
         <meta name="cover" content="img0" />
 
-        <dc:creator>Kotobee</dc:creator>
-        <dc:publisher>N/A</dc:publisher>
-        <dc:rights>Kotobee</dc:rights>
+        <dc:creator>آدم باشا</dc:creator>
+        <dc:publisher>آدم باشا</dc:publisher>
+        <dc:rights>آدم باشا</dc:rights>
         <dc:language>en</dc:language>
         <dc:description>No description available</dc:description>
-        <meta property="dcterms:modified">2024-05-10T09:16:40Z</meta>
+        <meta property="dcterms:modified">2024-05-10T09:39:29Z</meta>
         <meta property="rendition:layout">reflowable</meta>
         <meta property="rendition:orientation">auto</meta>
         <meta property="ibooks:interactive">true</meta>
