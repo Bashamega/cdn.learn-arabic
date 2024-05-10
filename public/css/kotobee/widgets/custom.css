@@ -1,1 +1,87 @@
 /*Developed By: Adam Basha*/
+.miniapp__content__board {
+    direction: rtl !important;
+}
+
+html,
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+    width: 500px !important;
+}
+
+.wordsearch-miniapp {
+    margin: 0 auto !important;
+    left: 0 !important;
+    right: 0 !important;
+}
+
+.wordsearch-miniapp .miniapp__container__header,
+.wordsearch-miniapp .miniapp__heading {
+    pointer-events: none !important;
+}
+
+.wordsearch-miniapp .miniapp--closeBtn,
+.wordsearch-miniapp .container .wrapper .header .close,
+.wordsearch-miniapp .container .wrapper .header .hideBtn,
+.wordsearch-miniapp .container .wrapper .header .minimize,
+.wordsearch-miniapp .container .wrapper .header .toggle {
+    display: none !important;
+}
+
+.wordsearch-miniapp .container .wrapper .display .miniapp__page .miniapp__innerPage .miniapp__content__board span.active {
+    background-color: #f6c593 !important;
+    background: #f6c593 !important;
+
+}
+
+.miniapp__heading,
+.miniapp__content__reset button,
+body .miniapp__popup__layer__card__btnsWrapper--okBtn {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+
+    background-color: #1c481c !important;
+    color: #ff8201 !important;
+    direction: rtl;
+}
+
+.miniapp__heading__title,
+.miniapp__heading__desc,
+.miniapp__guide__head span {
+    color: #ff8201 !important;
+}
+
+.miniapp__content {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+
+    background-color: #b2cfb2 !important;
+}
+
+.miniapp__content__wordlist {
+    color: #1c481c !important;
+    background-color: #f6c593 !important;
+}
+
+.miniapp__content__wordlist span,
+.miniapp__content__board span {
+    color: #1c481c !important;
+
+}
+
+.miniapp__popup__layer__card {
+    padding: 25px;
+    background: white;
+    border-radius: 3px;
+    width: calc(100% - 20px);
+    text-align: center;
+    direction: rtl;
+    font-family: tahoma;
+}
+
+.miniapp__popup__layer__card__title {
+    font-size: 25px;
+    color: #ff8201 !important;
+    margin: 0;
+}
